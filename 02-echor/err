@@ -1,0 +1,15 @@
+warning: crate `CL_Rust` should have a snake case name
+  |
+  = help: convert the identifier to snake case: `cl_rust`
+  = note: `#[warn(non_snake_case)]` on by default
+
+warning: `CL-Rust` (bin "CL-Rust") generated 1 warning
+    Finished dev [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target/debug/CL-Rust`
+error: The following required arguments were not provided:
+    <TEXT>...
+
+USAGE:
+    CL-Rust [FLAGS] <TEXT>...
+
+For more information try --help
