@@ -1,5 +1,5 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./02-echor/Cargo.toml"
+        "./catr/Cargo.toml"
     ]
 }
